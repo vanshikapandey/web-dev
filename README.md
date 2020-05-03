@@ -1,2 +1,1 @@
-# web-dev
-Basics of web development
+let's learn C with github
